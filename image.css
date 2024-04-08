@@ -1,0 +1,8 @@
+/* Aqui ficará retido todas as propriedades de estilao a respeito das imagens do site */
+
+
+.section_img {
+    position: relative;
+    border-radius: 999deg;
+}
+
